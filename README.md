@@ -169,8 +169,4 @@ JWT_SECRET=your_jwt_secret
 PORT=5000
 NODE_ENV=development
 ```
-For support, please contact the development team or create an issue in the repository.
-
----
-
 **Note**: Make sure to check the individual README files in `backend/` and `frontend/` directories for detailed setup instructions specific to each part of the application.
