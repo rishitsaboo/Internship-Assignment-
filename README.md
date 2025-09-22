@@ -169,21 +169,6 @@ JWT_SECRET=your_jwt_secret
 PORT=5000
 NODE_ENV=development
 ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the ISC License.
-
-## 📞 Support
-
 For support, please contact the development team or create an issue in the repository.
 
 ---
