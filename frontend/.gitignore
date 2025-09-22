@@ -61,3 +61,20 @@ jspm_packages/
 
 # dotenv environment variable files
 .env.test
+
+# Vite specific
+.vite/
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# React specific
+*.local
+
+# Development
+.local/
